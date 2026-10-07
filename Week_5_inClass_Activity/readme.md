@@ -26,7 +26,10 @@ This section shows the design with two decoders and OR gates to represent Cout a
 
 ## Test Circuit
 
-On the final test circuit I added a multiplexer that alternates between the two solutions. The **Mode** output shows which design is affecting the **Cout** and **Sum** outputs.
+On the final test circuit I added a multiplexer that alternates between the two solutions. The **Mode** output shows which design is affecting the **Cout** and **Sum** outputs respectively.
+
+- S = 0 -> Mux_FA outputs
+- S = 1 -> Mux_Decoder outputs
 
 <img src="img/pic_3.png" width="700">
 
