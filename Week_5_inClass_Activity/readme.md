@@ -33,4 +33,3 @@ On the final test circuit I added a multiplexer that alternates between the two 
 <img src="img/pic_3.png" width="700" alt="Full Adder Truth Table">
 
 <video src="img/video_1.mp4" controls width="100%"></video>
-<video src="https://github.com/gfm16617/ENCE_2101_Goncalo_Martins/blob/main/Week_5_inClass_Activity/img/video_1.mp4" controls width="100%"></video>
